@@ -1,54 +1,30 @@
 # 👋 Hello, I'm Jacob Muchoki
 
-I'm a passionate software developer and data scientist based in Nairobi, Kenya. My goal is to create meaningful, efficient, and user-friendly solutions that solve real-world problems. With a background in ICT and a deep interest in technology's evolution, I enjoy turning complex challenges into simple, beautiful, and intuitive experiences.
+I'm a **passionate ICT graduate** with a strong drive in **Data Science** and **Software Development**. My background in ICT fuels my creativity and ability to develop practical solutions using modern technologies.
+
+I am committed to continuous learning and growth in the tech world, always striving to merge analytical thinking with problem-solving.
 
 ---
 
-## 🧾 Professional Summary
+## 🎯 My Goal
 
-My interest in technology is fueled by witnessing the evolution it has brought across generations. I am inspired by how far we have come and excited about how much further we can go.
+I aspire to create meaningful impact through **data-driven solutions** and **innovative software**, contributing to advancements across different sectors including health, logistics, business, education, and more.
 
-I look forward to being part of the teams that will lead the next generation into uncovering patterns and innovations yet to be imagined.
-
-As an ICT graduate, I remain committed to sharpening my skills, staying curious, and embracing learning as a daily habit. I thrive in environments that challenge me to grow and where I can contribute meaningfully through both code and creativity.
+By combining the power of data and technology, I look forward to solving real-world problems, automating tasks, and uncovering patterns that inspire smarter decision-making.
 
 ---
 
 ## 🧠 Technical Skills
 
-### 💻 Programming Languages
-- Python
-- JavaScript
-- SQL
-
-### 🗃️ Databases
-- MySQL
-- SQL
-- AWS
-
-### 🧼 Data Cleaning & Analysis
-- Pandas
-- Numpy
-
-### 📊 Data Visualization
-- Matplotlib
-- Seaborn
-- Tableau
-- Power BI
-
-### 🤖 Machine Learning
-- Scikit-learn
-
-### 🔙 Backend Development
-- Python Flask
-- Node.js
-- Express.js
-
-### 🎨 Frontend Development
-- HTML
-- CSS
-- JavaScript
-- React
+| **Category**             | **Skills**                                       |
+|--------------------------|--------------------------------------------------|
+| Programming Languages     | Python, JavaScript, SQL                         |
+| Databases                 | MySQL, SQL, AWS                                 |
+| Data Cleaning & Analysis  | Pandas                                          |
+| Data Visualization        | Matplotlib, Seaborn, Tableau, Power BI         |
+| Machine Learning          | Scikit-learn                                    |
+| Backend Development       | Flask (Python), Node.js, Express.js            |
+| Frontend Development      | HTML, CSS, JavaScript, React                    |
 
 ---
 
@@ -56,7 +32,7 @@ As an ICT graduate, I remain committed to sharpening my skills, staying curious,
 
 - Data Scientist  
 - Software Developer  
-- *(Add more if you have specific platforms like IBM, Coursera, etc.)*
+- *(Add more specific certifications or platforms if available)*
 
 ---
 
@@ -66,7 +42,7 @@ As an ICT graduate, I remain committed to sharpening my skills, staying curious,
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let’s Connect
 
 - 🔗 [LinkedIn – Jacob Muchoki](https://www.linkedin.com/in/jacob-muchoki)
 - 💻 [GitHub – JayMuchoki](https://github.com/JayMuchoki)
