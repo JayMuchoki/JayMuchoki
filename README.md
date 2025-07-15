@@ -32,7 +32,6 @@ By combining the power of data and technology, I look forward to solving real-wo
 
 - Data Scientist  
 - Software Developer  
-- *(Add more specific certifications or platforms if available)*
 
 ---
 
